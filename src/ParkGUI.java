@@ -1,6 +1,3 @@
-// TODO Add file header
-// TODO Add javadoc interface header
-
 public interface ParkGUI {
   public void draw(); // draws a ParkGUI object (either an animal or a button) to the display window
 
